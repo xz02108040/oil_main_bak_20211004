@@ -1,0 +1,770 @@
+
+
+.web031024x768 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 768px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(229, 228, 228, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.web031024x768 .navigationbarbgb {
+  background-color    : rgb(57, 57, 59);
+  top                 : 0px;
+  height              : 50px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .u627fu652cu5546u9580u7981u5237u5361u7cfbu7d71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgb(255, 255, 255);
+  text-align          : center;
+  letter-spacing      : 0.29px;
+  line-height         : 28.0px;
+}
+.web031024x768 .report_men_total {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 60px;
+  width               : 214px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .report_men_total .report_men_total_title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 22.0px;
+}
+.web031024x768 .report_men_total .report_men_total_unit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 232px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.03px;
+  line-height         : 19.0px;
+}
+.web031024x768 .report_men_total .report_men_total_cnt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgb(73, 128, 249);
+  text-align          : right;
+  letter-spacing      : 0.6px;
+  line-height         : 60.0px;
+}
+.web031024x768 .report_car_total {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 60px;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .report_car_total .report_car_total_title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 22.0px;
+}
+.web031024x768 .report_car_total .report_car_total_unit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 223px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 22.0px;
+}
+.web031024x768 .report_car_total .report_car_total_cnt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgb(73, 128, 249);
+  text-align          : right;
+  letter-spacing      : 0.6px;
+  line-height         : 60.0px;
+}
+.web031024x768 .iconbtnorangebgcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .iconbtnorangebgcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 393px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .elementmainlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 74px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .elementfooterbg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 685px;
+  height              : 83px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 132px;
+  height              : 578px;
+  width               : 1010px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .subtitlebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 138px;
+  height              : 44px;
+  width               : 994px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .u9580u7981u5100u9336u677f {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 146px;
+  height              : auto;
+  width               : 116px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgb(255, 255, 255);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 25.0px;
+}
+.web031024x768 .report_group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 206px;
+  height              : 459px;
+  width               : 946px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .report_group .report_div1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 219px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .report_group .report_div2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 219px;
+    width               : 304px;
+    position            : absolute;
+    margin              : 0;
+    left                : 321px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.web031024x768 .report_group .report_div3 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 219px;
+    width               : 304px;
+    position            : absolute;
+    margin              : 0;
+    left                : 642px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.web031024x768 .report_group .report_div4 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 240px;
+    height              : 219px;
+    width               : 304px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.web031024x768 .report_group .report_div5 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 240px;
+    height              : 219px;
+    width               : 304px;
+    position            : absolute;
+    margin              : 0;
+    left                : 321px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+.web031024x768 .report_group .report_div6 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 240px;
+    height              : 219px;
+    width               : 304px;
+    position            : absolute;
+    margin              : 0;
+    left                : 642px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+
+/* 重複區域 ＳＴＡＲＴ */
+.report_show {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 219px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.report_show .report_show_main {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 219px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.report_show .report_show_main .titlebg_img {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 219px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.report_show .titlebg1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 47px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);    border-radius: 6px;
+    box-shadow: 0 2px 38px 0 rgba(0, 0, 0, 0.15);
+    border: solid 1px #6e6e6e;
+    background-image: linear-gradient(to bottom, #414d59, #414f61), linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+}
+.report_show .titlebg2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 47px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+    border-radius: 6px 6px 0px 0px;
+    background-image: linear-gradient(to left, #083e77, #2261a6);
+}
+.report_show .titlebg3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 47px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+    border-radius: 6px 6px 0px 0px;
+    background-image: linear-gradient(to bottom, #76879a, #414f61);
+}
+.report_show .report_show_main .reportcontentbg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 50px;
+    height              : 162px;
+    width               : 303px;
+    position            : absolute;
+    margin              : 0;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    border-radius: 6px;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #d3d3d3;
+    background-color: #ffffff;
+}
+.report_show .report_show_main .report_title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgb(255, 255, 255);
+  text-align          : center;
+  letter-spacing      : 0.35px;
+  line-height         : 33.0px;
+}
+.report_show .report_show_main .report_unit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 271px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.03px;
+  line-height         : 19.0px;
+}
+.report_show .report_show_main .report_memo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : normal;
+  font-size           : 56.0px;
+  color               : rgb(126, 210, 33);
+  text-align          : right;
+  letter-spacing      : 0.6px;
+  line-height         : 67.0px;
+}
+.report_show .report_show_main .report_subtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 93px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 22.0px;
+}
+.report_show .report_show_main .report_icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.report_show .report_show_main .report_icon .ovalicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.report_btn_div {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 160px;
+    height              : 47px;
+    width               : 285px;
+    position            : absolute;
+    margin              : 0;
+    left                : 9px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.report_btn_div .btnmore {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 46px;
+    width               : 284px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.report_btn_div .report_btn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(115, 129, 145);
+  text-align          : center;
+  letter-spacing      : 1.78px;
+  line-height         : 22.0px;
+}
+/* 重複區域 ＥＮＤ */
+
+
+
+
+
+
+.web031024x768 .elementarrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 6px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 454px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .u76eeu524du6642u95932019022312 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 86px;
+  height              : auto;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 733px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgb(42, 46, 56);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 22.0px;
+}
+.web031024x768 .u76eeu524du6642u95932019022312 .span1 {
+  
+}
+.web031024x768 .u76eeu524du6642u95932019022312 .span2 {
+  color               : rgba(208, 1, 27, 1.0);
+  letter-spacing      : 0.21px;
+}
+.web031024x768 .iconbtnorangebgcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 710px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .elementfooterlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 723px;
+  height              : 22px;
+  width               : 116px;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.web031024x768 .elementlogos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 700px;
+  height              : 61px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 880px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

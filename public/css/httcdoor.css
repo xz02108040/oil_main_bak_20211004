@@ -1,0 +1,1010 @@
+
+
+.httcdoor {
+    width               : 100%;
+    min-width           : 1920px;
+    height              : 100vh;
+    min-height          : 1080px;
+    position            : relative;
+    overflow            : hidden;
+    margin              : 0px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color    : rgba(229, 228, 228, 1.0);
+}
+a {
+    text-decoration     : none;
+}
+div {
+    -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+    width               : 100%;
+}
+.anima-full-height-a {
+    height              : 100%;
+}
+div {
+    -webkit-text-size-adjust: none;
+}
+.httcdoor .navigationbarbgb {
+    background-color    : rgb(57, 57, 59);
+    top                 : 0px;
+    height              : 84px;
+    width               : 100%;
+    position            : absolute;
+    margin              : 0;
+    left                : -6px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .reporttitle {
+    top                 : 19px;
+    height              : auto;
+    width               : 321px;
+    position            : absolute;
+    margin              : 0;
+    left                : 793px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(255, 255, 255);
+    text-align          : center;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.httcdoor .layer1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 848px;
+    height              : 295px;
+    width               : 787px;
+    position            : absolute;
+    margin              : 0;
+    left                : -107px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.15;
+}
+/* INFO區塊1 */
+.httcdoor .infogroup1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 83px;
+    height              : 108px;
+    width               : 392px;
+    position            : absolute;
+    margin              : 0;
+    left                : 154px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .infogroup1 .infotitle1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 44px;
+    height              : auto;
+    width               : 247px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.httcdoor .infogroup1 .info_cnt1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : auto;
+    width               : 167px;
+    position            : absolute;
+    margin              : 0;
+    left                : 223px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "-apple-system", Helvetica, Arial, serif;
+    font-weight         : 800;
+    font-style          : normal;
+    font-size           : 90.0px;
+    color               : rgb(73, 128, 249);
+    text-align          : right;
+    letter-spacing      : 0.6px;
+    line-height         : 108.0px;
+}
+.httcdoor .infogroup1 .info_unit1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 44px;
+    height              : auto;
+    width               : 24px;
+    position            : relative;
+    margin              : 0;
+    left                : 399px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "-apple-system", Helvetica, Arial, serif;
+    font-weight         : 700;
+    font-style          : normal;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.24px;
+    line-height         : 36.0px;
+}
+.httcdoor .infoicon1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 134px;
+    height              : 34px;
+    width               : 34px;
+    position            : absolute;
+    margin              : 0;
+    left                : 111px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.infoiconimgdiv {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 34px;
+    width               : 34px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.infoiconimgdiv .infoiconimg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 34px;
+    width               : 34px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+
+.httcdoor .infogroup2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 83px;
+    height              : 108px;
+    width               : 392px;
+    position            : absolute;
+    margin              : 0;
+    left                : 780px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .infogroup2 .infotitle2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 44px;
+    height              : auto;
+    width               : 247px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.httcdoor .infogroup2 .info_cnt2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : auto;
+    width               : 124px;
+    position            : absolute;
+    margin              : 0;
+    left                : 235px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "-apple-system", Helvetica, Arial, serif;
+    font-weight         : 800;
+    font-style          : normal;
+    font-size           : 90.0px;
+    color               : rgb(73, 128, 249);
+    text-align          : right;
+    letter-spacing      : 0.6px;
+    line-height         : 108.0px;
+}
+.httcdoor .infogroup2 .info_unit2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 44px;
+    height              : auto;
+    width               : 24px;
+    position            : relative;
+    margin              : 0;
+    left                : 409px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.httcdoor .infoicon2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 134px;
+    height              : 34px;
+    width               : 34px;
+    position            : absolute;
+    margin              : 0;
+    left                : 735px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+
+.httcdoor .infogroup3 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 127px;
+    height              : auto;
+    width               : 482px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1375px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.httcdoor .infoicon3 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 134px;
+    height              : 34px;
+    width               : 34px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1331px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .infogroup3 .span1 {
+
+}
+.httcdoor .infogroup3 .span2 {
+    color               : rgb(208, 1, 27);
+    letter-spacing      : 0.55px;
+}
+
+
+
+
+
+.httcdoor .elementfooterbg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 925px;
+    height              : 155px;
+    width               : 1920px;
+    position            : absolute;
+    margin              : 0;
+    left                : -2px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementfooterbg .mask {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 155px;
+    width               : 1920px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementfooterbg .layer1copy {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : -44px;
+    height              : 295px;
+    width               : 784px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1174px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.15;
+}
+.httcdoor .elementfooterbg .layer11 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : -140px;
+    height              : 300px;
+    width               : 797px;
+    position            : absolute;
+    margin              : 0;
+    left                : -133px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.15;
+}
+.httcdoor .elementmainlogo {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 9px;
+    height              : 115px;
+    width               : 115px;
+    position            : absolute;
+    margin              : 0;
+    left                : 91px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementmainlogo .oval {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 7px;
+    height              : 101px;
+    width               : 101px;
+    position            : absolute;
+    margin              : 0;
+    left                : 7px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementmainlogo .complogo {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 115px;
+    width               : 115px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementfooterlogo {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 994px;
+    height              : 38px;
+    width               : 252px;
+    position            : absolute;
+    margin              : 0;
+    left                : 798px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .elementfooterlogo .footlogo {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    position            : absolute;
+    margin              : 0;
+    left                : 54px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+.httcdoor .content {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 193px;
+    height              : 789px;
+    width               : 1888px;
+    position            : absolute;
+    margin              : 0;
+    left                : 15px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .content .rectangle2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 789px;
+    width               : 1888px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .content .rectangle21 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 6px;
+    height              : 66px;
+    width               : 1872px;
+    position            : absolute;
+    margin              : 0;
+    left                : 8px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .content .reportsubtitle {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 15px;
+    height              : auto;
+    width               : 555px;
+    position            : absolute;
+    margin              : 0;
+    left                : 868px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(255, 255, 255);
+    text-align          : left;
+    letter-spacing      : 0.4px;
+    line-height         : 42.0px;
+}
+.httcdoor .content .reportshowgroup  {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 56px;
+    height              : 706px;
+    width               : 1644px;
+    position            : absolute;
+    margin              : 0;
+    left                : 124px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+
+/* 紀錄列表 */
+.httcdoor .content .reportshowgroup .loglist {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 10%;
+    height              : 100%;
+    width               : 100%;
+    position            : relative;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+/* 紀錄列表 */
+.loglist .last_record_title {
+    font-size: 2em;
+    width               : 10%;
+}
+
+/* 紀錄列表 */
+.loglist .last_record {
+    display: inline-block;
+    top                 : -2px;
+    height              : 2em;
+    width               : 85%;
+    border:2px #000000 solid;
+}
+
+/* 紀錄列表 */
+.loglist .door_total_men_title {
+    font-size: 1.55em;
+}
+/* 紀錄列表 */
+.loglist .door_total_men {
+    border:2px #000000 solid;
+}
+
+/* 第一區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+/* 第二區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : relative;
+    margin              : 0;
+    left                : 558px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+/* 第三區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv3 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1110px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+/* 第四區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv4 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 336px;
+    height              : 340px;
+    width               : 526px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+/* 第五區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv5 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 336px;
+    height              : 340px;
+    width               : 526px;
+    position            : absolute;
+    margin              : 0;
+    left                : 558px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+/* 第六區塊 */
+.httcdoor .content .reportshowgroup  .reportdiv6 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 336px;
+    height              : 340px;
+    width               : 526px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1110px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+
+
+
+
+
+/* 報表區塊內容 ＳＴＡＲＴ */
+.reportcontent {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+
+}
+.reportcontent .reportgroup {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : relative;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    border-radius: 6px;
+}
+.reportcontent .reportgroup .reportgroupsub {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 373px;
+    width               : 539px;
+    position            : relative;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+
+}
+.reportcontent .reportgroup .reportgroupsub .reportcontentbg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 69px;
+    height              : 304px;
+    width               : 526px;
+    position            : absolute;
+    margin              : 0;
+    left                : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    border-radius: 6px;
+    border-collapse: separate;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #d3d3d3;
+    background-color: #ffffff;
+}
+.reportcontent .reportgroup .reportgroupsub .reportheadbg {
+    top                 : 54px;
+    width               : 526px;
+    height              : 70px;
+    position            : absolute;
+    margin              : 0;
+    left                : 5px;
+    border-collapse: separate;
+    border-radius: 6px;
+    background-color: #083e77;
+    background-image: linear-gradient(to left, #083e77, #2261a6);
+}
+.reportcontent .reportgroup .reportgroupsub .reporttopbg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 42px;
+    height              : 38px;
+    width               : 508px;
+    position            : absolute;
+    margin              : 0;
+    left                : 14px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    border-radius: 6px;
+    border-collapse: separate;
+    background-color: #414d59;
+    box-shadow: 0 2px 38px 0 rgba(0, 0, 0, 0.15);
+    border: solid 1px #6e6e6e;
+    background-image: linear-gradient(to bottom, #414d59, #414f61), linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+    -pie-background: linear-gradient(#414d59, #414f61); /*PIE*/
+}
+.reportcontent .reportgroup .reportgroupsub .linebar {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 256px;
+    height              : 3px;
+    width               : 506px;
+    position            : absolute;
+    margin              : 0;
+    left                : 15px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+
+.reportcontent .reportgroup .reportgroupsub .repttitlesub {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 64px;
+    height              : auto;
+    width               : 476px;
+    position            : absolute;
+    margin              : 0;
+    left                : 30px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 38.0px;
+    color               : rgb(255, 255, 255);
+    text-align          : center;
+    letter-spacing      : 0.56px;
+    line-height         : 53.0px;
+}
+.reportcontent .reportgroup .reportgroupsub .reptunit {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 171px;
+    height              : auto;
+    width               : 25px;
+    position            : absolute;
+    margin              : 0;
+    left                : 467px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "-apple-system", Helvetica, Arial, serif;
+    font-weight         : 700;
+    font-style          : normal;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.24px;
+    line-height         : 36.0px;
+}
+.reportcontent .reportgroup .reportgroupsub .reptcnt {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 135px;
+    height              : auto;
+    width               : 165px;
+    position            : absolute;
+    margin              : 0;
+    left                : 281px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "-apple-system", Helvetica, Arial, serif;
+    font-weight         : 800;
+    font-style          : normal;
+    font-size           : 90.0px;
+    color               : rgb(126, 210, 33);
+    text-align          : right;
+    letter-spacing      : 0.6px;
+    line-height         : 108.0px;
+}
+.reportcontent .reportgroup .reportgroupsub .repttitle {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 169px;
+    height              : auto;
+    width               : 235px;
+    position            : absolute;
+    margin              : 0;
+    left                : 111px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Semibold", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgb(42, 46, 56);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 42.0px;
+}
+.reportcontent .reportgroup .reportgroupsub .reportgroupsubicon {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 165px;
+    height              : 64px;
+    width               : 64px;
+    position            : absolute;
+    margin              : 0;
+    left                : 40px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportcontent .reportgroup .reportgroupsub .reportgroupsubicon .subicondiv {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 63px;
+    width               : 63px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportcontent .reportgroup .reportgroupsub .reportgroupsubicon .subicondiv .subiconimg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 63px;
+    width               : 63px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportcontent .reportbutton  {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 271px;
+    height              : 78px;
+    width               : 479px;
+    position            : absolute;
+    margin              : 0;
+    left                : 29px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportbutton .reportbuttonbg {
+    background-color    : rgb(241, 241, 242);
+    top                 : 0px;
+    height              : 78px;
+    width               : 478px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    border-radius       : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportbutton  .btnmorearrow {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 28px;
+    height              : 22px;
+    width               : 12px;
+    position            : absolute;
+    margin              : 0;
+    left                : 443px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportbutton  .btnmorearrow .btnmorearrowimg {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 22px;
+    width               : 13px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.reportbutton  .reportbuttonname {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 20px;
+    height              : auto;
+    width               : 251px;
+    position            : absolute;
+    margin              : 0;
+    left                : 116px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "PingFangTC-Medium", Helvetica, Arial, serif;
+    font-size           : 28.0px;
+    color               : rgb(115, 129, 145);
+    text-align          : center;
+    letter-spacing      : 3.11px;
+    line-height         : 40.0px;
+}
+/* 報表區塊內容 ＥＮＤ */
+
+
+
+
+.httcdoor .content .elementarrow {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 33px;
+    height              : 11px;
+    width               : 20px;
+    position            : absolute;
+    margin              : 0;
+    left                : 836px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .content .elementarrow .background {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 11px;
+    width               : 20px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.httcdoor .content .elementarrow .elementarrow1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : -5px;
+    height              : 21px;
+    width               : 12px;
+    position            : absolute;
+    margin              : 0;
+    left                : 4px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+    opacity             : 0;
+    display             : block;
+    -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+    opacity             : 1;
+    display             : block;
+    -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+
+.redfont {
+    color: red;
+}
+
+@-webkit-keyframes anima-reveal {
+    0%
+
+    {
+        opacity: 0;
+    }
+
+
+    100%
+
+    {
+        opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+    0%
+
+    {
+        opacity: 0;
+    }
+
+
+    100%
+
+    {
+        opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+    0%
+
+    {
+        opacity: 0;
+    }
+
+
+    100%
+
+    {
+        opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+    0%
+
+    {
+        opacity: 0;
+    }
+
+
+    100%
+
+    {
+        opacity: 1;
+    }
+}
