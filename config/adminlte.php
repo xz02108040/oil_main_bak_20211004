@@ -87,6 +87,8 @@ return [
 
     'dashboard_url' => '/',
 
+    'debug_url' => 'log-viewer',
+
     'logout_url' => 'logout',
 
     'logout_method' => null,

@@ -57,6 +57,14 @@
                 <!-- Navbar Right Menu -->
                 <div class="navbar-custom-menu">
                     <ul class="nav navbar-nav">
+                        <!-- DEBUG按鈕 管理員專用 -->
+                        @if(session('user.isRoot') == 'Y')
+                        <li>
+                            <a href="{{ url(config('adminlte.debug_url', 'log-viewer')) }} " target="_blank">
+                                <i class="fa fa-fw fas fa-bug"></i> {{ __('sys_btn.btn_82') }}
+                            </a>
+                        </li>
+                        @endif
                         <!-- 登入者資訊 -->
                         <li class="dropdown user user-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
